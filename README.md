@@ -1,2 +1,2 @@
 # Diccionarios
-Fuzzing en español
+Fuzzing
