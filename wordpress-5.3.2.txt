@@ -103,8 +103,6 @@ wp-admin/user-edit.php
 wp-admin/user-new.php
 wp-admin/users.php
 wp-admin/widgets.php
-wp-admin/images/wordpress-logo-white.svg
-wp-admin/images/wordpress-logo.svg
 wp-admin/includes/admin-filters.php
 wp-admin/includes/admin.php
 wp-admin/includes/ajax-actions.php
@@ -275,8 +273,6 @@ wp-admin/js/set-post-thumbnail.js
 wp-admin/js/set-post-thumbnail.min.js
 wp-admin/js/site-health.js
 wp-admin/js/site-health.min.js
-wp-admin/js/svg-painter.js
-wp-admin/js/svg-painter.min.js
 wp-admin/js/tags-box.js
 wp-admin/js/tags-box.min.js
 wp-admin/js/tags-suggest.js
@@ -396,10 +392,8 @@ wp-content/themes/twentynineteen/page.php
 wp-content/themes/twentynineteen/readme.txt
 wp-content/themes/twentynineteen/search.php
 wp-content/themes/twentynineteen/single.php
-wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php
 wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php
 wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff
-wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2
 wp-content/themes/twentynineteen/inc/back-compat.php
 wp-content/themes/twentynineteen/inc/color-patterns.php
 wp-content/themes/twentynineteen/inc/customizer.php
@@ -435,11 +429,6 @@ wp-content/themes/twentyseventeen/search.php
 wp-content/themes/twentyseventeen/searchform.php
 wp-content/themes/twentyseventeen/sidebar.php
 wp-content/themes/twentyseventeen/single.php
-wp-content/themes/twentyseventeen/assets/images/coffee.jpg
-wp-content/themes/twentyseventeen/assets/images/espresso.jpg
-wp-content/themes/twentyseventeen/assets/images/header.jpg
-wp-content/themes/twentyseventeen/assets/images/sandwich.jpg
-wp-content/themes/twentyseventeen/assets/images/svg-icons.svg
 wp-content/themes/twentyseventeen/assets/js/customize-controls.js
 wp-content/themes/twentyseventeen/assets/js/customize-preview.js
 wp-content/themes/twentyseventeen/assets/js/global.js
@@ -485,9 +474,6 @@ wp-content/themes/twentysixteen/sidebar-content-bottom.php
 wp-content/themes/twentysixteen/sidebar.php
 wp-content/themes/twentysixteen/single.php
 wp-content/themes/twentysixteen/genericons/COPYING.txt
-wp-content/themes/twentysixteen/genericons/Genericons.eot
-wp-content/themes/twentysixteen/genericons/Genericons.svg
-wp-content/themes/twentysixteen/genericons/Genericons.ttf
 wp-content/themes/twentysixteen/genericons/Genericons.woff
 wp-content/themes/twentysixteen/genericons/LICENSE.txt
 wp-content/themes/twentysixteen/genericons/README.md
@@ -518,8 +504,6 @@ wp-content/themes/twentytwenty/package.json
 wp-content/themes/twentytwenty/readme.txt
 wp-content/themes/twentytwenty/searchform.php
 wp-content/themes/twentytwenty/singular.php
-wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2
-wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2
 wp-content/themes/twentytwenty/assets/js/color-calculations.js
 wp-content/themes/twentytwenty/assets/js/customize-controls.js
 wp-content/themes/twentytwenty/assets/js/customize-preview.js
@@ -531,11 +515,9 @@ wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php
 wp-content/themes/twentytwenty/classes/class-twentytwenty-non-latin-languages.php
 wp-content/themes/twentytwenty/classes/class-twentytwenty-script-loader.php
 wp-content/themes/twentytwenty/classes/class-twentytwenty-separator-control.php
-wp-content/themes/twentytwenty/classes/class-twentytwenty-svg-icons.php
 wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php
 wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php
 wp-content/themes/twentytwenty/inc/starter-content.php
-wp-content/themes/twentytwenty/inc/svg-icons.php
 wp-content/themes/twentytwenty/inc/template-tags.php
 wp-content/themes/twentytwenty/template-parts/content-cover.php
 wp-content/themes/twentytwenty/template-parts/content.php
@@ -782,11 +764,7 @@ wp-includes/customize/class-wp-customize-themes-section.php
 wp-includes/customize/class-wp-customize-upload-control.php
 wp-includes/customize/class-wp-widget-area-customize-control.php
 wp-includes/customize/class-wp-widget-form-customize-control.php
-wp-includes/fonts/dashicons.eot
-wp-includes/fonts/dashicons.svg
-wp-includes/fonts/dashicons.ttf
 wp-includes/fonts/dashicons.woff
-wp-includes/fonts/dashicons.woff2
 wp-includes/ID3/getid3.lib.php
 wp-includes/ID3/getid3.php
 wp-includes/ID3/license.commercial.txt
@@ -1089,7 +1067,6 @@ wp-includes/js/mediaelement/mediaelement-migrate.js
 wp-includes/js/mediaelement/mediaelement-migrate.min.js
 wp-includes/js/mediaelement/mediaelement.js
 wp-includes/js/mediaelement/mediaelement.min.js
-wp-includes/js/mediaelement/mejs-controls.svg
 wp-includes/js/mediaelement/wp-mediaelement.js
 wp-includes/js/mediaelement/wp-mediaelement.min.js
 wp-includes/js/mediaelement/wp-playlist.js
@@ -1160,13 +1137,7 @@ wp-includes/js/tinymce/plugins/wptextpattern/plugin.js
 wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js
 wp-includes/js/tinymce/plugins/wpview/plugin.js
 wp-includes/js/tinymce/plugins/wpview/plugin.min.js
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.eot
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.svg
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf
 wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.woff
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.eot
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.svg
-wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.ttf
 wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
 wp-includes/js/tinymce/themes/inlite/theme.js
 wp-includes/js/tinymce/themes/inlite/theme.min.js
