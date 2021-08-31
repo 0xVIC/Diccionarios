@@ -1,0 +1,789 @@
+--- 
+- :path: /_pages/
+  :vuln: Index of demo pages--CVE-2002-0565
+- :path: /_pages/_webapp/_admin/_showpooldetails.java
+  :vuln: CVE-2002-0565
+- :path: /_pages/_webapp/_admin/_showjavartdetails.java
+  :vuln: CVE-2002-0565
+- :path: /_pages/_webapp/_jsp/
+  :vuln: CVE-2002-0565
+- :path: /_pages/_demo/
+  :vuln: CVE-2002-0565
+- :path: /_pages/_demo/_sql/_pages/
+  :vuln: CVE-2002-0565
+- :path: /OA_HTML/AppsLocalLogin.jsp
+  :vuln: Oracle E-business Server -- Use Ebiz Scanner
+- :path: /admin/
+- :path: /admin_/
+- :path: /adminoc4j
+- :path: /appdet.html
+- :path: /AQApp
+- :path: /AQApp/
+- :path: /aplogon.html
+- :path: /assistants/
+- :path: /backup_restore/
+- :path: /bc4j.html
+  :vuln: Business Components for Java
+- :path: /bc4jadmin/bc4jadmin.htm
+  :vuln: BC4J Admin Utility
+- :path: /bc4jdoc/
+  :vuln: BC4J Documentation
+- :path: /bc4jdoc/rt/index.html
+  :vuln: BC4J Documentation
+- :path: /BC4J/
+  :vuln: BC4J Documentation
+- :path: /BC4J
+  :vuln: BC4J Documentation
+- :path: /bc4jdoc/setup.html
+  :vuln: Online Orders Demo Setup
+- :path: /BPELConsole/
+  :vuln: BPEL Console Pages
+- :path: /BPELConsole/login.jsp
+  :vuln: BPEL Console Login
+- :path: /BPELAdmin/
+  :vuln: BPEL Admin Pages
+- :path: /BPELAdmin/server.jsp
+  :vuln: BPEL Admin Login
+- :path: /BPELAdmin/login.jsp
+  :vuln: BPEL Admin Login
+- :path: /callerInfo/
+- :path: /callerInfo/callerInfo/
+  :vuln: JAAS Provider callerInfo Demo
+- :path: /callerInfo/callerInfoA
+  :vuln: JAAS Provider callerInfo Demo
+- :path: /callerInfo/callerInfoB
+  :vuln: JAAS Provider callerInfo Demo
+- :path: /callerInfo/README.txt
+  :vuln: Readme for JAAS Provider callerInfo Demo
+- :path: /cartx/owa
+- :path: /ccore/
+- :path: /cgi-bin/
+- :path: /cgi-bin/printenv
+  :vuln: Prints Oracle HTTP Environment Variables
+- :path: /cgi-bin/printenv.tmp
+- :path: /cgi-bin/test-cgi
+- :path: /config.xml
+- :path: /Consumer
+- :path: /Consumer/HotelAdmin.jsp
+- :path: /content/index.jspx
+  :vuln: Oracle Content Database
+- :path: /content/ws/RemoteLoginManager
+  :method: POST
+  :vuln: Remote Login Manger?
+- :path: /content/ws/SessionManager
+- :path: /csportlet/providers/
+  :vuln: JPDK Test Page
+- :path: /dav
+  :vuln: Check for writeable dav directory
+- :path: /dav/
+  :vuln: Check for writeable dav directory
+- :path: /dav_portal/portal/
+  :vuln: Check for writeable dav directory--check for dav bypass
+- :path: /dav_public
+  :vuln: Check for writeable dav directory
+- :path: /dav_public/
+  :vuln: Check for writeable dav directory
+- :path: /demo/sql/jdbc/JDBCQuery.jsp
+  :vuln: Run SQL Cmds
+- :path: /dev60cgi/f60cgi
+  :vuln: Oracle Forms 6i
+- :path: /dev60cgi/f60cgi?form=test.fmx
+  :vuln: Oracle Forms 6i
+- :path: /dev60cgi/ifcgi60.exe
+  :vuln: Oracle Forms 6i
+- :path: /dev60cgi/rwcgi60
+  :vuln: Oracle Reports
+- :path: /diagnostics/
+- :path: /discoverer/viewer
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/viewer_files/help/en/edit_parameters.htm
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/plus
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/app/cec?event=createConnection&clientType=plus
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/plus#Connect%20Directly
+  :vuln: Oracle Application Server Discoverer -- show connections
+- :path: /discoverer/app/about?event=showAboutPage
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/app/connection?event=displayConnections
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/app/export?event=startExport
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/app/cec?event=createConnection&clientType=viewer
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/app/connection?event=displayConnections#Connect%20Directly
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/intro/html/disc_demo_intro.htm
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/intro/html/disc_demo_custom.htm
+  :vuln: Oracle Application Server Discoverer
+- :path: /discoverer/common/help/en/connections.htm
+  :vuln: Oracle Application Server Discoverer
+- :path: /dms/AggreSpy
+  :vuln: Oracle DMS Metrics
+- :path: /dms/DMSDump
+  :vuln: Oracle DMS Current Values
+- :path: /dms0
+  :vuln: Oracle DMS Dump
+- :path: /dms0/
+  :vuln: Oracle DMS Dump
+- :path: /dsa/
+- :path: /esb/
+- :path: /em
+  :vuln: Oracle Enterprise Manager
+- :path: /em/
+  :vuln: Oracle Enterprise Manager
+- :path: /em/dynamicImage/emSDK/chart/EmChartBean
+  :vuln: Oracle Enterprise Manager
+- :path: /emd/dynamicImage/emSDK/chart/EmChartBean
+  :vuln: Oracle Enterprise Manager
+- :path: /em/dynamicImage/emSDK/chart/EmChartBean?beanId=\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+  :vuln: Oracle Enterprise Manager
+- :path: /emd/dynamicImage/emSDK/chart/EmChartBean?beanId=\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+  :vuln: Oracle Enterprise Manager
+- :path: /examples/jsp/
+  :vuln: Default JSP examples on a 10.1 Oracle
+- :path: /examples/servlets/
+  :vuln: Default JSP examples on a 10.1 Oracle
+- :path: /FAQApp
+- :path: /fastcgi/
+  :vuln: "Fastcgi Developer's Kit Index Page"
+- :path: /fcgi-bin/
+- :path: /fcgi-bin/echo
+- :path: /fcgi-bin/echo.exe
+- :path: /fcgi-bin/echo2
+- :path: /fcgi-bin/echo2.exe
+- :path: /fcgi-bin/printenv
+- :path: /file.xsql?name=foobar
+  :vuln: See HPOAS page 14
+- :path: /forms/lservlet
+  :vuln: Oracle Forms Service Status
+- :path: /forms/jinitiator/us/jinit_download.htm
+  :vuln: Oracle Forms
+- :path: /forms/frmservlet?form=test.fmx
+  :vuln: Oracle Forms
+- :path: /forms90/f90servlet?form=test.fmx
+  :vuln: Oracle Forms 9i
+- :path: /forms90/f90servlet
+  :vuln: Oracle Forms 9i
+- :path: /f60cgi.exe
+  :vuln: Oracle Forms
+- :path: /f60servlet
+  :vuln: Oracle Forms
+- :path: /globals.jsa
+  :vuln: CVE-2002-0562
+- :path: /has/
+- :path: /hdemo
+- :path: /help/index.htm
+  :vuln: Help Index
+- :path: /HotelService
+- :path: /iaspt/
+- :path: /imtapp/app/prelogin.uix
+  :vuln: Oracle Real-Time Collaboration
+- :path: /imtapp/app/arc_pub.uix
+  :vuln: Oracle Real-Time Collaboration
+- :path: /imtapp/app/home.uix?siteID=
+  :vuln: Oracle Real-Time Collaboration
+- :path: /imtapp/app/gbl_contact_us.uix
+  :vuln: Oracle Real-Time Collaboration
+- :path: /imtapp/app/pubschconf.uix
+  :vuln: Oracle Real-Time Collaboration
+- :path: /imthelp/help/
+- :path: /install.platform/
+- :path: /inTellectPRO.jsp
+- :path: /install/
+- :path: /isqlplus
+  :vuln: Oracle DB iSqlPlus Login
+- :path: /isqlplus/
+  :vuln: Oracle DB iSqlPlus Login
+- :path: /IsWebCacheWorking/
+  :vuln: Oracle Webcache
+- :path: /IsWebCacheWorking/jesi_template.jsp
+  :vuln: Oracle Webcache
+- :path: /iASDemos.htm
+- :path: /javacache/
+- :path: /J2EE.htm
+- :path: /J2EEandIA.htm
+- :path: /javavm/
+- :path: /jdbc/
+- :path: /jmsws1
+- :path: /jmsws2
+- :path: /jmsws1.ear
+- :path: /jocdemo/servlet/IsCacheWorking
+- :path: /jre/
+- :path: /jserv
+- :path: /jserv/status?module=127.0.0.1
+- :path: /jserv/engine/0
+- :path: /jservdocs/
+  :vuln: Apache JServ Documentation
+- :path: /jinitiator/jinit_download.htm
+  :vuln: Jinitiator download page
+- :path: /jinitiator/us/jinit_download.htm
+  :vuln: Jinitiator download page
+- :path: /jsp/
+- :path: /jsp_backup/
+- :path: /jspdocs/javadoc
+  :vuln: jsp documentation, may have default DB version
+- :path: /jspdocs/
+  :vuln: JSP Documentation
+- :path: /jspdocs/index.html
+  :vuln: JSP Documentation
+- :path: /lbs/
+- :path: /ldap/
+- :path: /log/
+- :path: /logs
+- :path: /master/
+- :path: /mesg/
+- :path: /myapp
+  :vuln: Default DAD
+- :path: /myapp/
+  :vuln: Default DAD
+- :path: /mydad
+  :vuln: Default DAD
+- :path: /mydad/
+  :vuln: Default DAD
+- :path: /mod_ose_docs/
+  :vuln: Apache Module for Oracle Servlet Engine Documentation
+- :path: /mod_ose.html
+  :vuln: Apache Module for Oracle Servlet Engine Documentation
+- :path: /nls
+  :vuln: Default DAD
+- :path: /nls/
+  :vuln: Default DAD
+- :path: /NFIntro.htm
+- :path: /OA_HTML/
+  :vuln: Oracle E-business Server -- Use Ebiz Scanner
+- :path: /oa_servlets/AppsLogin
+  :vuln: Oracle E-business Server -- Use Ebiz Scanner
+- :path: /oa_servlets/oracle.apps.fnd.sso.FNDSSOLogoutRedirect
+  :vuln: Oracle E-business Server -- Check 302 for DAD
+- :path: /oiddas/
+  :vuln: Oracle Directory Services
+- :path: /oiddas/ui/oracle/ldap/das/mypage/ViewMyPage
+  :vuln: Oracle Directory Services
+- :path: /oiddas/ui/oracle/ldap/das/directory/DASUserMgmtDir
+  :vuln: Oracle Directory Services
+- :path: /oiddas/ui/oracle/ldap/das/conf/DASGeneralConf?route=true
+  :vuln: Oracle Directory Services
+- :path: /oiddas/ui/oracle/ldap/das/subscriber/DASSubscriberLOV
+  :vuln: Oracle Directory Services
+- :path: /oiddas/oiddashome.uix?event=ssologin
+  :vuln: Oracle Directory Services
+- :path: /oiddas/ui/
+  :vuln: Oracle Directory Services
+- :path: /onlineorders_html/
+  :vuln: Demo Page
+- :path: /onlineorders/main.jsp
+  :vuln: Demo Page
+- :path: /onlineorders/signon.jsp
+  :vuln: Demo Page
+- :path: /onlineorders/main.jsp
+  :vuln: Demo Page
+- :path: /OnlineOrders_html/
+  :vuln: Demo Page
+- :path: /OnlineOrders_html/login.jsp
+  :vuln: Demo Page
+- :path: /oprocmgr-service
+- :path: /oprocmgr-status
+  :vuln: Process Status
+- :path: /orasso
+  :vuln: Default DAD
+- :path: /orasso/
+  :vuln: Default DAD
+- :path: /orasso/orasso.home
+  :vuln: Default DAD
+- :path: /ord/
+- :path: /oui/
+- :path: /ojspdemos/email/sendmail.jsp
+- :path: /owa_util.cellsprint?p_theQuery=select+1+from+dual
+  :vuln: Portal Injection
+- :path: /owa_util.listprint?p_theQuery=select+1+from+dual
+  :vuln: Portal Injection
+- :path: /owa_util.show_query_columns?ctable=sys.dba_users
+  :vuln: Portal Inejction
+- :path: /owa_util.showsource?cname=books
+  :vuln: Portal, Vulnerable Package (Show Source)
+- :path: /owm/
+  :vuln: Default DAD
+- :path: /ows-bin/
+  :vuln: Default DAD -- Should 302 Your Request
+- :path: /ows-bin/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/admin_/gateway.htm
+  :vuln: Oracle Portal
+- :path: /ows-bin/admin_/globalsettings.htm
+  :vuln: Oracle Portal
+- :path: /ows-bin/admin_/globalsettings.htm
+  :vuln: Oracle Portal
+- :path: /ows-bin/admin_/dadentries.htm
+  :vuln: Oracle Portal
+- :path: /ows-bin/admin_/cache.htm
+  :vuln: Oracle Portal
+- :path: /ows-bin/app/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/banking/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/cartx/owa/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/dad/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/db/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/owa/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/htmldb/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/myapp/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/mydad/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/orasso/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/online/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/ows-binqlapp/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal2/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal30/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal30_sso/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal306/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal309/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/qa/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/real/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/sample/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/simpledad/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/ssodad/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/test/admin_/
+  :vuln: Oracle Portal
+- :path: /ows-bin/app
+  :vuln: Oracle Portal
+- :path: /ows-bin/banking/
+  :vuln: Oracle Portal
+- :path: /ows-bin/cartx/owa
+  :vuln: Oracle Portal
+- :path: /ows-bin/dad
+  :vuln: Oracle Portal
+- :path: /ows-bin/db
+  :vuln: Oracle Portal
+- :path: /ows-bin/owa
+  :vuln: Oracle Portal
+- :path: /ows-bin/htmldb
+  :vuln: Oracle Portal
+- :path: /ows-bin/myapp
+  :vuln: Oracle Portal
+- :path: /ows-bin/mydad
+  :vuln: Oracle Portal
+- :path: /ows-bin/myDAD
+  :vuln: Oracle Portal
+- :path: /ows-bin/orasso
+  :vuln: Oracle Portal
+- :path: /ows-bin/online
+  :vuln: Oracle Portal
+- :path: /ows-bin/ows-binqlapp
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal2
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal30
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal30_sso
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal306
+  :vuln: Oracle Portal
+- :path: /ows-bin/portal309
+  :vuln: Oracle Portal
+- :path: /ows-bin/qa
+  :vuln: Oracle Portal
+- :path: /ows-bin/real
+  :vuln: Oracle Portal
+- :path: /ows-bin/sample
+  :vuln: Oracle Portal
+- :path: /ows-bin/simpledad
+  :vuln: Oracle Portal
+- :path: /ows-bin/simpledad/sample.home
+  :vuln: Oracle Portal
+- :path: /ows-bin/ssodad
+  :vuln: Oracle Portal
+- :path: /perl/
+- :path: /perl/printenv
+  :vuln: Oracle Environmental Variables
+- :path: /perl-status
+- :path: /pls
+  :vuln: modplsql gateway
+- :path: /pls/
+  :vuln: modplsql gateway
+- :path: /pls/apex
+  :vuln: Oracle Apex
+- :path: /pls/admin_/gateway.htm
+  :vuln: Oracle Portal
+- :path: /pls/admin_/globalsettings.htm
+  :vuln: Oracle Portal
+- :path: /pls/admin_/help/..%255Cplsql.conf
+- :path: /pls/admin_help/%252F..%252Fplsql.conf
+- :path: /pls/banking/account.welcome
+  :vuln: Oracle Portal
+- :path: /pls/bookstore
+  :vuln: Oracle Portal
+- :path: /pls/cartx/owa
+  :vuln: Oracle Portal
+- :path: /pls/cartx/owa/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/cfg/admin_?schema=app
+  :vuln: Oracle Portal
+- :path: /pls/classic/admin_/gateway.htm?schema=
+  :vuln: Oracle Portal
+- :path: /pls/classic/admin_/globalsettings.htm
+  :vuln: Oracle Portal
+- :path: /pls/classic/admin_/dadentries.htm
+  :vuln: Oracle Portal
+- :path: /pls/classic/admin_/cache.htm
+  :vuln: Oracle Portal
+- :path: /pls/help/
+  :vuln: Oracle Portal
+- :path: /pls/htmldb
+  :vuln: Oracle Apex
+- :path: /pls/htmldb/htmldb
+  :vuln: Oracle Apex
+- :path: /pls/htmldb/apex_admin
+  :vuln: Oracle Apex
+- :path: /pls/myapp
+  :vuln: Oracle Portal
+- :path: /pls/myapp/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/mydad
+  :vuln: Oracle Portal
+- :path: /pls/mydad/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/orasso
+  :vuln: Oracle Portal
+- :path: /pls/orasso/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/orasso/orasso.wwsso_app_admin.ls_login?
+  :vuln: Oracle Portal
+- :path: /pls/orasso/orasso.home
+  :vuln: Oracle Portal
+- :path: /pls/plsqlapp
+  :vuln: Oracle Portal
+- :path: /pls/plsqlapp/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/portal
+  :vuln: Oracle Portal
+- :path: /pls/portal/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/portal30
+  :vuln: Oracle Portal
+- :path: /pls/portal30/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/portal30_sso
+  :vuln: Oracle Portal
+- :path: /pls/portal30_sso/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/portal306
+  :vuln: Oracle Portal
+- :path: /pls/portal306/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/portal309
+  :vuln: Oracle Portal
+- :path: /pls/portal309/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/prod/fnd_web.ping
+  :vuln: Oracle Portal
+- :path: /pls/qa
+  :vuln: Oracle Portal
+- :path: /pls/qa/admin_/
+  :vuln: Oracle Portal
+- :path: /pls/wf/wfa_html.home
+  :vuln: Oracle Portal--Oracle Workflow
+- :path: /pls/wf/wf_demo.home
+  :vuln: Oracle Portal--Oracle Workflow
+- :path: /pls/cs_wf/wfa_html.home
+  :vuln: Oracle Portal
+- :path: /pls/wfa/wfa_html.home
+  :vuln: Oracle Portal
+- :path: /pls/Workflow/wfa_html.home
+  :vuln: Oracle Portal
+- :path: /plsql/
+  :vuln: Oracle Portal
+- :path: /plsqlapp/
+  :vuln: Oracle Portal
+- :path: /portal/
+  :vuln: Oracle Portal
+- :path: /portal/pls/portal
+  :vuln: Oracle Portal
+- :path: /portal/page
+  :vuln: Oracle Portal
+- :path: /portal/page?_pageid=6,1,6_13&_dad=portal&_schema=PORTAL
+  :vuln: Oracle Portal
+- :path: /portal30
+  :vuln: Oracle Portal
+- :path: /portal30_sso
+  :vuln: Oracle Portal
+- :path: /portal306
+  :vuln: Oracle Portal
+- :path: /portal309
+  :vuln: Oracle Portal
+- :path: /portalTools/
+- :path: /portalTools/omniPortlet/providers/omniPortlet
+- :path: /portalTools/webClipping/providers/webClipping
+- :path: /portalTools/sample/providers/omniPortletSample
+- :path: /precomp/
+  :vuln: Oracle Portal
+- :path: /ptg/rm
+  :vuln: Oracle Wireless Portal
+- :path: /ptg_upgrade_pkg.log
+- :path: /qa
+  :vuln: modplsql gateway
+- :path: /rdbms/
+- :path: /real
+- :path: /recomp_exit.dyn
+- :path: /relnotes
+- :path: /repdemo/index.html
+  :vuln: Default Content
+- :path: /repdemo/runJSPIAS.html
+  :vuln: Default Content
+- :path: /repdemo/runrepIAS.html
+- :path: /reports/examples/Tools/test.jsp
+  :vuln: "Oracle Reports has XSS test: test.jsp?repprod\"<script>alert( document.cookie );</script> "
+- :path: /reports/rwservlet
+  :vuln: Oracle Reports URLS with sensitive info
+- :path: /reports/rwservlet/showenv
+  :vuln: Oracle Reports URLS with sensitive info
+- :path: /reports/rwservlet/showmap
+  :vuln: Oracle Reports URLS with sensitive info
+- :path: /reports/rwservlet/showjobs
+  :vuln: Oracle Reports URLS with sensitive info
+- :path: /reports/rwservlet/showmap?server=myserver
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/killjobid
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/parsequery
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/showauth
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/delauth
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/getserverinfo
+  :vuln: Oracle Reports
+- :path: /reports/rwservlet/killengine
+  :vuln: Oracle Reports
+- :path: /richtextportlet/info
+- :path: /root.sh
+- :path: /runqianprovider/providers/
+  :vuln: RunQian Portlet
+- :path: /ruleauthor/
+- :path: /sample
+- :path: /sejb_webservices
+- :path: /sejb_webservices/HelloService?proxy_jar
+- :path: /sejb_webservices/HelloService?WSDL
+- :path: /server-info
+  :vuln: Apache Info
+- :path: /server-status
+  :vuln: Apache Server Status
+- :path: /servlet
+- :path: /servlet/DMSDump
+  :vuln: "DMS: Current Metric Values"
+- :path: /servlet/IsCacheWorking
+- :path: /servlet/IsItWorking
+  :vuln: Jserv status page
+- :path: /servlets/weboam/oam/oamLogin
+- :path: /servlet/f60servlet
+  :vuln: Oracle Forms 6i Servlet
+- :path: /servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+  :vuln: SOAP Configs
+- :path: /servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+  :vuln: SOAP Configs
+- :path: /servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+  :vuln: XSQL Configs, unfortunately not found returns a 200...manually check
+- :path: /servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+  :vuln: XSQL Configs, unfortunately not found returns a 200...manually check
+- :path: /servlet/Spy
+  :vuln: Oracle DMS Metrics
+- :path: /simpledad
+  :vuln: Oracle Portal Default DAD
+- :path: /slax
+- :path: /soap/
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/servlet/soaprouter
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/servlet/Spy
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/admin
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/admin/servlet/soaprouter
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/admin/servicemanager
+  :vuln: Oracle SOAP Servlet
+- :path: /soap/admin/providermanager
+  :vuln: Oracle SOAP Servlet
+- :path: /soapbuilder/
+  :vuln: Oracle SOAP Servlet
+- :path: /soapbuilder/r2/InteropTest
+  :vuln: Oracle SOAP Servlet
+- :path: /soapdocs/
+  :vuln: Oracle SOAP Docs
+- :path: /soapdocs/ReleaseNotes.html
+  :vuln: Oracle SOAP Docs
+- :path: /soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+  :vuln: Oracle SOAP Docs
+- :path: /sqlj
+- :path: /sqlnet.log
+- :path: /sqlplus
+- :path: /srvm
+- :path: /sso
+- :path: /sso/jsp/login.jsp
+  :vuln: XSS is login.jsp?site2pstoretoken=XSS
+- :path: /ssodad
+  :vuln: Default DAD
+- :path: /statefuldocws
+- :path: /statelessdocws
+- :path: /syndication/
+- :path: /sysman/
+- :path: /sysman/reporting/
+- :path: /test/
+- :path: /text/
+- :path: /tmp/
+- :path: /temp/
+- :path: /tmp/
+- :path: /uddi/
+  :vuln: Oracle AS UDDI Registry
+- :path: /uddi/inquiry
+  :vuln: Oracle AS UDDI Inquiry SOAP End Point
+- :path: /uddi/publishing
+  :vuln: Oracle AS UDDI Publishing End Point
+- :path: /uddi/admin
+  :vuln: Oracle AS UDDI Admin End Point
+- :path: /uddirepl/replication
+  :vuln: Oracle AS UDDI Replication SOAP End Point
+- :path: /uddirepl/admin/wallet
+  :vuln: Oracle AS UDDI Wallet Password Admin End Point
+- :path: /uddi/demo/jsp/searchForm.jsp
+  :vuln: UDDI Registry Search/Browse Page
+- :path: /uix/
+- :path: /tictactoe
+- :path: /tmp/
+- :path: /ultrasearch/
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/search.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/usearch.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/mail.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/tag/tsearch.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/9i/gsearch.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/query/9i/mail.jsp
+  :vuln: Oracle Ultra Search Query Applications
+- :path: /ultrasearch/admin/index.jsp
+  :vuln: Oracle Ultra Search Admin Portal
+- :path: /ultrasearch/admin/control/login.jsp
+  :vuln: Oracle Ultra Search Admin Portal
+- :path: /upgrade/
+- :path: /wcs/
+- :path: /web_services
+- :path: /web-inf/config.xml
+- :path: /WEB-INF/config.xml
+- :path: /webapp/
+- :path: /webapp/admin/
+- :path: /webapp/admin/bc4jadmin.htm
+- :path: /webapp/admin/showpooldetails.jsp
+- :path: /webapp/admin/showsessiondetails.jsp
+- :path: /webapp/admin/showbc4jrtdetails.jsp
+- :path: /webapp/cabo/
+- :path: /webapp/css/
+- :path: /webapp/jsp/
+- :path: /webapp/images/
+- :path: /webapp/jsimages/
+- :path: /webapp/admin/_pages/_bc4jadmin/
+- :path: /webapp/jsp/calendar.jsp
+- :path: /webapp/wm/bc4j.jsp
+  :vuln: BC4J Admin Utility
+- :path: /webapp/wm/runtime.jsp
+  :vuln: BC4J Admin Utility
+- :path: /webcache/
+- :path: /webcache/webcache.xml
+- :path: /webcache/WebCacheDemo.html
+- :path: /WebCacheDemo.html
+- :path: /webcacheadmin
+- :path: /webcacheadmin?SCREEN_ID=CGA.CacheDump&ACTION=Submit&index=1&cache_dump_file=log.txt
+- :path: /webcalendar/
+- :path: /webservices/
+- :path: /webservices/beanTest?proxy_jar
+- :path: /webservices/beanTest?wsdl
+- :path: /webservices/statefulTest?proxy_jar
+- :path: /webservices/statefulTest?wsdl
+- :path: /webservices/statelessTest?proxy_jar
+- :path: /webservices/statelessTest?wsdl
+- :path: /webservices1/
+- :path: /webservices1/javacallin?invoke=to_string
+- :path: /webservices1/sqlstatement?getEmpBySalBeans&param0=500
+- :path: /webtools/
+- :path: /wireless/
+- :path: /xdk/
+  :vuln: Oracle XML Developers Kit Documentation
+- :path: /xdk/java/xsql/readme.html
+  :vuln: Oracle XML Developers Kit
+- :path: /xdk/doc/index.html
+- :path: /xsql/
+  :vuln: can have xsql demo pages which may allow you to run limited sql queries
+- :path: /xsql/java/xsql/demo/adhocsql/query.xsql?xml-stylesheet=none.xsl&sql=select+1+from+dual
+  :vuln: XSQL Demos
+- :path: /xsql/lib/XSQLConfig.xml
+  :vuln: XSQL Demos
+- :path: /xsql/java/xsql/demo/adhocsql/query.xsql?xmlstylesheet=none.xsl&sql=select+1+from+dual
+  :vuln: XSQL Demos
+- :path: /xsql/java/xsql/demo/uri/uridemo.html
+  :vuln: Possibly Run SQL Queries
+- :path: /xsql/java/xsql/demo/insertxml/newsstorydemo.html
+  :vuln: XSQL Demos
+- :path: /xsql/demo/adhocsql/query.xsql?xml-stylesheet=none.xsl&sql=select+1+from+dual
+  :vuln: XSQL Demos
+- :path: /xsql/demo/airport/airport.xsql?xml-stylesheet=none
+  :vuln: XSQL Demos
+- :path: /xsql/demo/adhocsql/query.xsql?sql=select+1+from+dual
+  :vuln: XSQL Demos
+- :path: /xsql/adhocsql/query.xsql?xml-stylesheet=none.xsl&sql=select+1+from+dual
+  :vuln: XSQL Demos
+- :path: /xsql/helloworld/helloworld.xsql
+  :vuln: XSQL Demos
+- :path: /xsql/emp/emp.xsql?find=A
+  :vuln: XSQL Demos
+- :path: /xsql/insclaim/xsqlov.htm
+  :vuln: XSQL Demos
+- :path: /xsql/classerr/invalidclasses.xsql
+  :vuln: XSQL Demos
+- :path: /xsql/doyouxml/doyouxml.xsql
+  :vuln: XSQL Demos
+- :path: /xsql/empdept/empdept.xsql
+  :vuln: XSQL Demos
+- :path: /xsql/airport/airport.htm
+  :vuln: XSQL Demos
+- :path: /xsql/airport/airport.xsql?xml-stylesheet=airport.xsl
+  :vuln: XSQL Demos
+- :path: /xsql/airport/airportSoap.html
+  :vuln: XSQL Demos
+- :path: /xsql/adhocsql/sqltoxml.html
+  :vuln: "Run SQL Commands CVE-2002-0569 "
+- :path: /xsql/document/docdemo.html
+  :vuln: XSQL Demos
+- :path: /xsql/insertxml/newsstorydemo.html
+  :vuln: XSQL Demos
+- :path: /xsql/svg/svgdemo.html
+  :vuln: XSQL Demos
